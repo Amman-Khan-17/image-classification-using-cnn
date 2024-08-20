@@ -23,3 +23,18 @@ You can install the required packages using pip:
 
 ```bash
 pip install tensorflow matplotlib
+
+
+Dataset
+The CIFAR-10 dataset is automatically downloaded when running the code. It contains 10 classes:
+
+Airplane
+Automobile
+Bird
+Cat
+Deer
+Dog
+Frog
+Horse
+Ship
+Truck
