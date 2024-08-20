@@ -3,14 +3,14 @@
 This project demonstrates the implementation of a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The dataset is divided into 50,000 training images and 10,000 test images.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Visualization](#visualization)
-- [License](#license)
+- [Installation]
+- [Dataset]
+- [Model Architecture]
+- [Training]
+- [Evaluation]
+- [Results]
+- [Visualization]
+- [License]
 
 ## Installation
 
@@ -23,18 +23,3 @@ You can install the required packages using pip:
 
 ```bash
 pip install tensorflow matplotlib
-
-
-Dataset
-The CIFAR-10 dataset is automatically downloaded when running the code. It contains 10 classes:
-
-Airplane
-Automobile
-Bird
-Cat
-Deer
-Dog
-Frog
-Horse
-Ship
-Truck
